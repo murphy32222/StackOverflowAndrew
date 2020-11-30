@@ -1,0 +1,821 @@
+{
+  "items": [
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 25,
+        "user_id": 10770417,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-QcgsAdvRw40/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jcjicKSs9FxipcUUn0mlZh-wNhtQ/mo/photo.jpg?sz=128",
+        "display_name": "R&#243;bert Porub&#228;n",
+        "link": "https://stackoverflow.com/users/10770417/r%c3%b3bert-porub%c3%a4n"
+      },
+      "is_answered": true,
+      "view_count": 56,
+      "accepted_answer_id": 65074200,
+      "answer_count": 5,
+      "score": -1,
+      "last_activity_date": 1606745946,
+      "creation_date": 1606741469,
+      "question_id": 65074141,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65074141/how-to-convert-this-loop-to-list-comprehension",
+      "title": "How to convert this loop to list comprehension"
+    },
+    {
+      "tags": [
+        "python",
+        "imagemagick",
+        "crop",
+        "imagemagick-convert",
+        "wand"
+      ],
+      "owner": {
+        "reputation": 1185,
+        "user_id": 1917112,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/9730cbf51214d47aadd58f3afc8fca0c?s=128&d=identicon&r=PG",
+        "display_name": "delaye",
+        "link": "https://stackoverflow.com/users/1917112/delaye"
+      },
+      "is_answered": true,
+      "view_count": 1889,
+      "accepted_answer_id": 28503615,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1606745936,
+      "creation_date": 1423821455,
+      "question_id": 28496848,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/28496848/convert-and-crop-image-in-tiles-with-python",
+      "title": "convert and crop image in tiles with python"
+    },
+    {
+      "tags": [
+        "unit-testing",
+        "vue.js",
+        "vuejs2",
+        "jasmine",
+        "vue-test-utils"
+      ],
+      "owner": {
+        "reputation": 2466,
+        "user_id": 4344732,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/k6jPD.jpg?s=128&g=1",
+        "display_name": "Hoang Tran Son",
+        "link": "https://stackoverflow.com/users/4344732/hoang-tran-son"
+      },
+      "is_answered": true,
+      "view_count": 53800,
+      "accepted_answer_id": 54021633,
+      "answer_count": 13,
+      "score": 60,
+      "last_activity_date": 1606745927,
+      "creation_date": 1546513374,
+      "question_id": 54021037,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/54021037/how-to-mock-window-location-href-with-jest-vuejs",
+      "title": "How to mock window.location.href with Jest + Vuejs?"
+    },
+    {
+      "tags": [
+        "powershell",
+        "active-directory",
+        "large-data"
+      ],
+      "owner": {
+        "reputation": 311,
+        "user_id": 10106356,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-T7Tr6ot8gJY/AAAAAAAAAAI/AAAAAAAAAX0/Md6jAbDvlKc/photo.jpg?sz=128",
+        "display_name": "Karthick Ganesan",
+        "link": "https://stackoverflow.com/users/10106356/karthick-ganesan"
+      },
+      "is_answered": true,
+      "view_count": 41,
+      "accepted_answer_id": 65062329,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1606745901,
+      "creation_date": 1606663158,
+      "question_id": 65061705,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65061705/optimize-get-aduser-filter",
+      "title": "Optimize Get-ADUser filter"
+    },
+    {
+      "tags": [
+        "c",
+        "struct",
+        "segmentation-fault"
+      ],
+      "owner": {
+        "reputation": 5,
+        "user_id": 13630098,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-2Y_Unf27Hvc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmiLOJlH7coZOz4lJT7xZDJXClE8A/photo.jpg?sz=128",
+        "display_name": "Michael Bohanan",
+        "link": "https://stackoverflow.com/users/13630098/michael-bohanan"
+      },
+      "is_answered": true,
+      "view_count": 91,
+      "accepted_answer_id": 65060263,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1606745845,
+      "creation_date": 1606651265,
+      "last_edit_date": 1606651979,
+      "question_id": 65059847,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65059847/segmentation-fault-for-all-elements-except-the-first",
+      "title": "Segmentation fault for all elements except the first"
+    },
+    {
+      "tags": [
+        "java",
+        "math"
+      ],
+      "owner": {
+        "reputation": 33,
+        "user_id": 4673215,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/e8fa776ab63038807c769a129809e553?s=128&d=identicon&r=PG",
+        "display_name": "rufoDev",
+        "link": "https://stackoverflow.com/users/4673215/rufodev"
+      },
+      "is_answered": true,
+      "view_count": 922,
+      "accepted_answer_id": 36920741,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1606745822,
+      "creation_date": 1461858409,
+      "last_edit_date": 1461868382,
+      "question_id": 36919536,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/36919536/how-to-calculate-a-point-out-of-an-angle-and-a-distance",
+      "title": "How to calculate a point out of an angle and a distance?"
+    },
+    {
+      "tags": [
+        "functional-programming"
+      ],
+      "owner": {
+        "reputation": 6693,
+        "user_id": 739927,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/Ua4Wm.jpg?s=128&g=1",
+        "display_name": "Jarek",
+        "link": "https://stackoverflow.com/users/739927/jarek"
+      },
+      "is_answered": true,
+      "view_count": 181,
+      "accepted_answer_id": 8667991,
+      "answer_count": 4,
+      "score": 2,
+      "last_activity_date": 1606745715,
+      "creation_date": 1325154265,
+      "question_id": 8666618,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/8666618/possible-means-of-side-effectst-in-purely-functional-languages",
+      "title": "Possible means of side effectst in purely functional languages"
+    },
+    {
+      "tags": [
+        "functional-programming",
+        "purely-functional"
+      ],
+      "owner": {
+        "reputation": 105509,
+        "user_id": 1333873,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/7ae9b432531de46073888f1a49c2391c?s=128&d=identicon&r=PG",
+        "display_name": "Golo Roden",
+        "link": "https://stackoverflow.com/users/1333873/golo-roden"
+      },
+      "is_answered": true,
+      "view_count": 5173,
+      "accepted_answer_id": 18173877,
+      "answer_count": 3,
+      "score": 20,
+      "last_activity_date": 1606745709,
+      "creation_date": 1376231065,
+      "question_id": 18172947,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/18172947/how-to-perform-side-effects-in-pure-functional-programming",
+      "title": "How to perform side-effects in pure functional programming?"
+    },
+    {
+      "tags": [
+        "haskell",
+        "code-generation",
+        "compiler-construction"
+      ],
+      "owner": {
+        "reputation": 1771,
+        "user_id": 616150,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/79b2a278bb1777cd16d0d311e90fed59?s=128&d=identicon&r=PG",
+        "display_name": "Viktor Dahl",
+        "link": "https://stackoverflow.com/users/616150/viktor-dahl"
+      },
+      "is_answered": true,
+      "view_count": 1929,
+      "accepted_answer_id": 6311676,
+      "answer_count": 2,
+      "score": 8,
+      "last_activity_date": 1606745693,
+      "creation_date": 1307736188,
+      "question_id": 6311512,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/6311512/creating-unique-labels-in-haskell",
+      "title": "Creating unique labels in Haskell"
+    },
+    {
+      "tags": [
+        "powershell",
+        "datetime",
+        "timespan"
+      ],
+      "owner": {
+        "reputation": 49,
+        "user_id": 12664483,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-tp5vBwKzOQA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reEP1SBB6cSDCjrYf0w7iPLhP_iwg/photo.jpg?sz=128",
+        "display_name": "VINOD KUMAR",
+        "link": "https://stackoverflow.com/users/12664483/vinod-kumar"
+      },
+      "is_answered": true,
+      "view_count": 69,
+      "accepted_answer_id": 64147904,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1606745641,
+      "creation_date": 1601512430,
+      "last_edit_date": 1606745641,
+      "question_id": 64147579,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/64147579/how-to-convert-a-string-value-to-type-system-int32-in-powershell",
+      "title": "How to convert a string value to type &quot;System.Int32&quot; in PowerShell"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "powershell",
+        "messagebox"
+      ],
+      "owner": {
+        "reputation": 161,
+        "user_id": 5344915,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/edf7e31ee76095d83a079d5f02eb1c16?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Phil O&#39;kelly",
+        "link": "https://stackoverflow.com/users/5344915/phil-okelly"
+      },
+      "is_answered": true,
+      "view_count": 7568,
+      "accepted_answer_id": 41886889,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1606745639,
+      "creation_date": 1485489458,
+      "question_id": 41886745,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/41886745/messagebox-in-powershell-not-brought-to-front",
+      "title": "MessageBox in Powershell not brought to front"
+    },
+    {
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-extension",
+        "google-chrome-devtools"
+      ],
+      "owner": {
+        "reputation": 17402,
+        "user_id": 843732,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/8e7b3eb1f6bb311c47610a9d230485f0?s=128&d=identicon&r=PG",
+        "display_name": "c00000fd",
+        "link": "https://stackoverflow.com/users/843732/c00000fd"
+      },
+      "is_answered": true,
+      "view_count": 15272,
+      "accepted_answer_id": 25706434,
+      "answer_count": 4,
+      "score": 27,
+      "last_activity_date": 1606745470,
+      "creation_date": 1410052506,
+      "question_id": 25706235,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/25706235/chrome-debugger-how-to-turn-off-console-log-message-grouping",
+      "title": "Chrome debugger - how to turn off console.log message grouping?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 6169,
+        "user_id": 734776,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://www.gravatar.com/avatar/a14a4787565a4dc11131e5ec3b0a534a?s=128&d=identicon&r=PG",
+        "display_name": "THpubs",
+        "link": "https://stackoverflow.com/users/734776/thpubs"
+      },
+      "is_answered": true,
+      "view_count": 7781,
+      "accepted_answer_id": 59115247,
+      "answer_count": 2,
+      "score": 5,
+      "last_activity_date": 1606745436,
+      "creation_date": 1575106525,
+      "question_id": 59114874,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/59114874/await-has-no-effect-on-the-type-of-this-expression-when-using-await-inside-an",
+      "title": "&#39;await&#39; has no effect on the type of this expression when using await inside an if block"
+    },
+    {
+      "tags": [
+        "windows",
+        "batch-file",
+        "cmd"
+      ],
+      "owner": {
+        "reputation": 45,
+        "user_id": 11544950,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7f58d8b40ced1fac80cf1abfe7d03466?s=128&d=identicon&r=PG&f=1",
+        "display_name": "epickmatt",
+        "link": "https://stackoverflow.com/users/11544950/epickmatt"
+      },
+      "is_answered": true,
+      "view_count": 155,
+      "accepted_answer_id": 62027921,
+      "answer_count": 4,
+      "score": 4,
+      "last_activity_date": 1606745416,
+      "creation_date": 1590508187,
+      "last_edit_date": 1590513013,
+      "question_id": 62026148,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/62026148/make-variable-all-lower-case-in-batch-without-call",
+      "title": "Make variable all lower case in batch without call"
+    },
+    {
+      "tags": [
+        "javascript",
+        "php",
+        "html",
+        "button"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 14675312,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-9dPrRZ2IvK8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmuxiFpy3-eGB1QWTx_TqORGNL2_A/s96-c/photo.jpg?sz=128",
+        "display_name": "דוד דובין",
+        "link": "https://stackoverflow.com/users/14675312/%d7%93%d7%95%d7%93-%d7%93%d7%95%d7%91%d7%99%d7%9f"
+      },
+      "is_answered": true,
+      "view_count": 51,
+      "accepted_answer_id": 65073502,
+      "answer_count": 4,
+      "score": 1,
+      "last_activity_date": 1606745405,
+      "creation_date": 1606736995,
+      "last_edit_date": 1606745405,
+      "question_id": 65073012,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65073012/removing-a-div-whose-id-is-made-with-php-with-a-button-using-onclick-doesnt-wo",
+      "title": "Removing a div (whose id is made with php) with a button using Onclick doesnt work"
+    },
+    {
+      "tags": [
+        "java",
+        "orm",
+        "jpa"
+      ],
+      "owner": {
+        "reputation": 8587,
+        "user_id": 36131,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/e00c999fe29606c86925cd6c8156d771?s=128&d=identicon&r=PG",
+        "display_name": "Andrea Francia",
+        "link": "https://stackoverflow.com/users/36131/andrea-francia"
+      },
+      "is_answered": true,
+      "view_count": 260528,
+      "accepted_answer_id": 1428480,
+      "answer_count": 12,
+      "score": 172,
+      "last_activity_date": 1606745404,
+      "creation_date": 1226589323,
+      "last_edit_date": 1382948594,
+      "question_id": 287201,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/287201/how-to-persist-a-property-of-type-liststring-in-jpa",
+      "title": "How to persist a property of type List&lt;String&gt; in JPA?"
+    },
+    {
+      "tags": [
+        "amazon-s3",
+        "fluentd",
+        "loki",
+        "boltdb"
+      ],
+      "owner": {
+        "reputation": 1096,
+        "user_id": 951321,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/9eb886c753c17c33ba7fd8061af43e3f?s=128&d=identicon&r=PG",
+        "display_name": "markhorrocks",
+        "link": "https://stackoverflow.com/users/951321/markhorrocks"
+      },
+      "is_answered": true,
+      "view_count": 389,
+      "accepted_answer_id": 64567117,
+      "answer_count": 2,
+      "score": 4,
+      "last_activity_date": 1606745397,
+      "creation_date": 1603129458,
+      "last_edit_date": 1603818963,
+      "question_id": 64432617,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/64432617/loki-config-with-s3",
+      "title": "Loki config with s3"
+    },
+    {
+      "tags": [
+        "postgresql",
+        "weekday"
+      ],
+      "owner": {
+        "reputation": 152,
+        "user_id": 9851619,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9f5de75e7e68708003efdd6493d9c04f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "husnu",
+        "link": "https://stackoverflow.com/users/9851619/husnu"
+      },
+      "is_answered": true,
+      "view_count": 18,
+      "accepted_answer_id": 65073435,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1606745360,
+      "creation_date": 1606737928,
+      "question_id": 65073257,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65073257/to-get-weekday-between-two-date-in-postgresql",
+      "title": "To get weekday between two date in Postgresql"
+    },
+    {
+      "tags": [
+        "excel",
+        "vba",
+        "file",
+        "directory"
+      ],
+      "owner": {
+        "reputation": 501,
+        "user_id": 2793093,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.stack.imgur.com/hi99g.jpg?s=128&g=1",
+        "display_name": "dekio",
+        "link": "https://stackoverflow.com/users/2793093/dekio"
+      },
+      "is_answered": true,
+      "view_count": 20780,
+      "accepted_answer_id": 26241997,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1606745297,
+      "creation_date": 1412703620,
+      "last_edit_date": 1424133774,
+      "question_id": 26241927,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/26241927/copying-files-from-one-folder-to-another-using-vba",
+      "title": "Copying files from one folder to another using vba"
+    },
+    {
+      "tags": [
+        "r",
+        "lubridate",
+        "week-number"
+      ],
+      "owner": {
+        "reputation": 4626,
+        "user_id": 3888000,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.stack.imgur.com/zivqC.jpg?s=128&g=1",
+        "display_name": "Dan Chaltiel",
+        "link": "https://stackoverflow.com/users/3888000/dan-chaltiel"
+      },
+      "is_answered": true,
+      "view_count": 35,
+      "accepted_answer_id": 65073760,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1606745172,
+      "creation_date": 1606739441,
+      "question_id": 65073642,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65073642/how-to-get-all-days-inside-a-week",
+      "title": "How to get all days inside a week?"
+    },
+    {
+      "tags": [
+        "c#",
+        "json",
+        "asp.net-mvc-4",
+        "c#-4.0",
+        "json.net"
+      ],
+      "owner": {
+        "reputation": 125,
+        "user_id": 2543921,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://www.gravatar.com/avatar/00bc999472bf988b71705a0c5132b1b9?s=128&d=identicon&r=PG",
+        "display_name": "Muzingaye ",
+        "link": "https://stackoverflow.com/users/2543921/muzingaye"
+      },
+      "is_answered": true,
+      "view_count": 38640,
+      "accepted_answer_id": 33609944,
+      "answer_count": 3,
+      "score": 6,
+      "last_activity_date": 1606745077,
+      "creation_date": 1447069797,
+      "last_edit_date": 1447072253,
+      "question_id": 33608473,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/33608473/unable-to-cast-object-of-type-newtonsoft-json-linq-jarray-to-type-system-coll",
+      "title": "Unable to cast object of type &#39;Newtonsoft.Json.Linq.JArray&#39; to type &#39;System.Collections.Generic.List`"
+    },
+    {
+      "tags": [
+        "php",
+        "laravel",
+        "symfony",
+        "laravel-5"
+      ],
+      "owner": {
+        "reputation": 417,
+        "user_id": 4805935,
+        "user_type": "registered",
+        "accept_rate": 33,
+        "profile_image": "https://www.gravatar.com/avatar/2ccd953a1e3073f073b220d43844e648?s=128&d=identicon&r=PG",
+        "display_name": "Nancymic",
+        "link": "https://stackoverflow.com/users/4805935/nancymic"
+      },
+      "is_answered": true,
+      "view_count": 26416,
+      "accepted_answer_id": 39587447,
+      "answer_count": 10,
+      "score": 32,
+      "last_activity_date": 1606745051,
+      "creation_date": 1447986407,
+      "last_edit_date": 1474366097,
+      "question_id": 33817983,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/33817983/artisan-migration-error-class-doctrine-dbal-driver-pdomysql-driver-not-fo",
+      "title": "artisan migration error &quot;Class &#39;Doctrine\\\\DBAL\\\\Driver\\\\PDOMySql\\\\Driver&#39; not found&quot;,"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "pycharm"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 14734902,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-UoDRKzk8pKw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm1oNRDZQRmLTy1On4Stxo3u-MDFw/s96-c/photo.jpg?sz=128",
+        "display_name": "Null_Route",
+        "link": "https://stackoverflow.com/users/14734902/null-route"
+      },
+      "is_answered": true,
+      "view_count": 31,
+      "accepted_answer_id": 65073468,
+      "answer_count": 3,
+      "score": -2,
+      "last_activity_date": 1606745050,
+      "creation_date": 1606738240,
+      "last_edit_date": 1606738517,
+      "question_id": 65073345,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65073345/python-list-output-help-needed",
+      "title": "Python List output help needed"
+    },
+    {
+      "tags": [
+        "symfony",
+        "jquery-select2"
+      ],
+      "owner": {
+        "reputation": 2818,
+        "user_id": 3554065,
+        "user_type": "registered",
+        "accept_rate": 81,
+        "profile_image": "https://i.stack.imgur.com/AvgX1.png?s=128&g=1",
+        "display_name": "Alsatian",
+        "link": "https://stackoverflow.com/users/3554065/alsatian"
+      },
+      "is_answered": true,
+      "view_count": 4329,
+      "accepted_answer_id": 30537897,
+      "answer_count": 2,
+      "score": 5,
+      "last_activity_date": 1606745012,
+      "creation_date": 1431382008,
+      "last_edit_date": 1470995883,
+      "question_id": 30178424,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/30178424/extending-entitytype-to-allow-extra-choices-set-with-ajax-calls",
+      "title": "Extending EntityType to allow extra choices set with AJAX calls"
+    },
+    {
+      "tags": [
+        "c++",
+        "c",
+        "struct"
+      ],
+      "owner": {
+        "reputation": 109,
+        "user_id": 6937857,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d9739c6af4263b1b0df9fb1130573a18?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Joe",
+        "link": "https://stackoverflow.com/users/6937857/joe"
+      },
+      "is_answered": true,
+      "view_count": 87,
+      "accepted_answer_id": 65039548,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1606745000,
+      "creation_date": 1606488600,
+      "last_edit_date": 1606745000,
+      "question_id": 65039316,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65039316/cast-between-c-class-and-c-structure-what-to-do-with-the-destructor",
+      "title": "Cast between C++ class and C structure -- what to do with the destructor?"
+    },
+    {
+      "tags": [
+        "powershell",
+        "powershell-5.0",
+        "powershell-7.0"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 14728130,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgHag8e23axgVOA_noTBpUPw3jjuVCC0aCXVXPUuA=s96-c=k-s128",
+        "display_name": "Mark T. Schwartz",
+        "link": "https://stackoverflow.com/users/14728130/mark-t-schwartz"
+      },
+      "is_answered": true,
+      "view_count": 49,
+      "accepted_answer_id": 65060867,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1606744997,
+      "creation_date": 1606634307,
+      "last_edit_date": 1606659285,
+      "question_id": 65057836,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65057836/powershell-7-1-how-do-i-get-aliases-from-a-list-of-functions-names",
+      "title": "PowerShell 7.1, How do I Get Aliases from a List of Functions Names"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "dependency-injection",
+        "uwp",
+        "autofac"
+      ],
+      "owner": {
+        "reputation": 4835,
+        "user_id": 4256749,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/2lpRO.png?s=128&g=1",
+        "display_name": "Kzrystof",
+        "link": "https://stackoverflow.com/users/4256749/kzrystof"
+      },
+      "is_answered": true,
+      "view_count": 1741,
+      "accepted_answer_id": 49990446,
+      "answer_count": 4,
+      "score": 5,
+      "last_activity_date": 1606744993,
+      "creation_date": 1523803602,
+      "last_edit_date": 1580955712,
+      "question_id": 49843225,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/49843225/how-to-use-autofac-in-an-uwp-app",
+      "title": "How to use autofac in an UWP app?"
+    },
+    {
+      "tags": [
+        "sql",
+        "sql-server"
+      ],
+      "owner": {
+        "reputation": 141,
+        "user_id": 8798588,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-LS31w75YJU0/AAAAAAAAAAI/AAAAAAAAKU0/PnWi3iMxwz8/photo.jpg?sz=128",
+        "display_name": "notlaughing",
+        "link": "https://stackoverflow.com/users/8798588/notlaughing"
+      },
+      "is_answered": true,
+      "view_count": 1171,
+      "accepted_answer_id": 54284844,
+      "answer_count": 4,
+      "score": 0,
+      "last_activity_date": 1606744967,
+      "creation_date": 1548053440,
+      "last_edit_date": 1548053971,
+      "question_id": 54284751,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/54284751/how-can-i-count-the-number-of-words-in-a-column-in-sql-server",
+      "title": "How can I count the number of words in a column in SQL Server"
+    },
+    {
+      "tags": [
+        "prolog"
+      ],
+      "owner": {
+        "reputation": 51,
+        "user_id": 9453716,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1255631301197054/picture?type=large",
+        "display_name": "Thanasis Namikazee",
+        "link": "https://stackoverflow.com/users/9453716/thanasis-namikazee"
+      },
+      "is_answered": true,
+      "view_count": 35,
+      "accepted_answer_id": 65037895,
+      "answer_count": 2,
+      "score": 3,
+      "last_activity_date": 1606744915,
+      "creation_date": 1606481954,
+      "last_edit_date": 1606482778,
+      "question_id": 65037787,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65037787/how-to-make-prolong-understand-a-connection-by-other-relationship",
+      "title": "How to make prolong understand a connection by other relationship"
+    },
+    {
+      "tags": [
+        "php",
+        "mysql",
+        "wordpress"
+      ],
+      "owner": {
+        "reputation": 384,
+        "user_id": 5457692,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-RusIgX6wV4k/AAAAAAAAAAI/AAAAAAAAABg/wSAqZ7F3Mx0/photo.jpg?sz=128",
+        "display_name": "NickPR",
+        "link": "https://stackoverflow.com/users/5457692/nickpr"
+      },
+      "is_answered": true,
+      "view_count": 520,
+      "accepted_answer_id": 61699824,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1606744901,
+      "creation_date": 1588873545,
+      "question_id": 61664341,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/61664341/wp-database-error-unknowon-column-wp-in-field-list-for-query-select-wp",
+      "title": "WP database error Unknowon column ‘wp_’ in ‘field list’ for query SELECT wp_"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 288
+}

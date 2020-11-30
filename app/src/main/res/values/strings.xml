@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StackOverflowAndrew</string>
+    <string name="default_error_message">Something went wrong, try again later.</string>
+</resources>
